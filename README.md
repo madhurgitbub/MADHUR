@@ -87,7 +87,7 @@ class MadhurPratapSingh:
 
 ## 🌐 Portfolio
 
-👉 https://madhurportfolio.lovable.app/
+👉 [https://madhur-pratap-singh-portfolio.vercel.app/]
 
 ---
 
