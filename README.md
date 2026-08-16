@@ -5,248 +5,95 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Backend+Developer;Building+Data-Driven+Solutions;Turning+Ideas+Into+Real-World+Software" />
 </p>
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Turning+Raw+Data+into+Actionable+Insights;Building+Data-Driven+Solutions;Developing+Backend+Applications;Exploring+Machine+Learning+%26+AI;Building+Real-World+Projects;Future+Machine+Learning+Engineer" />
-</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Actionable+Insights;Building+Data-Driven+Solutions;Learning+Machine+Learning+Every+Day;Future+Machine+Learning+Engineer" />
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Who Am I?
 
 ```python
 class MadhurPratapSingh:
 
     def __init__(self):
-        self.role = "Software Engineer"
-        self.specialization = [
-            "Data Analytics",
-            "Machine Learning",
-            "Backend Development"
-        ]
-
-        self.skills = [
-            "Python",
-            "SQL",
-            "FastAPI",
-            "JavaScript",
-            "Machine Learning"
-        ]
-
-        self.current_focus = [
-            "Backend Development",
-            "Data Science",
-            "Machine Learning",
-            "AI"
-        ]
-
-        self.goal = "Build scalable software and intelligent data-driven systems"
+        self.role = "Aspiring ML Engineer"
+        self.skills = ["Python", "SQL", "Data Analytics", "Machine Learning"]
+        self.current_focus = "Building real-world data projects"
+        self.goal = "Creating intelligent systems powered by data"
 
     def motto(self):
-        return "Code → Analyze → Build → Innovate"
+        return "Transform Data → Generate Insights → Drive Impact"
 ```
 
 ---
 
-# ⚡ Technical Skills
+## 📖 My Journey
 
-### 💻 Programming Languages
+🔹 Started with curiosity about how companies use data.
 
-```text
-🐍 Python
-🗄️ SQL
-☕ Java
-🌐 JavaScript
-```
+🔹 Learned Python, SQL, and Data Analysis.
 
-### 📊 Data Analytics
+🔹 Worked as a Data Analyst Intern at Bluestoke Fintech.
 
-```text
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Data Cleaning
-Data Transformation
-Exploratory Data Analysis
-Data Visualization
-```
+🔹 Built projects around Mutual Funds and Stock Market Analysis.
+
+🔹 Now diving deeper into Machine Learning and AI.
+
+🔹 Long-term goal: Become a Machine Learning Engineer building impactful products.
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+🐍 Python • 🗄️ SQL • 🌐 JavaScript
+
+### 📊 Analytics
+📈 Pandas • 🔢 NumPy • 📉 Matplotlib • 📊 Seaborn
 
 ### 🤖 Machine Learning
+🧠 Scikit-Learn • Data Preprocessing • Feature Engineering • Model Evaluation
 
-```text
-Scikit-Learn
-Data Preprocessing
-Feature Engineering
-Model Evaluation
-Predictive Modeling
-Machine Learning Fundamentals
-```
+### 🗃️ Database
+💾 MySQL
 
-### ⚙️ Backend Development
-
-```text
-🐍 Python
-⚡ FastAPI
-🔗 REST APIs
-🔐 JWT Authentication
-🛡️ API Development
-```
-
-### 🌐 Frontend Development
-
-```text
-HTML5
-CSS3
-JavaScript
-Responsive Web Design
-```
-
-### 🗃️ Databases
-
-```text
-🐘 PostgreSQL
-🟢 Supabase
-🐬 MySQL
-```
-
-### 🛠️ Tools & Platforms
-
-```text
-Git
-GitHub
-VS Code
-Jupyter Notebook
-Power BI
-```
+### 🌐 Frontend
+🎨 HTML • CSS • JavaScript
 
 ---
 
-# 🚀 What I Build
+## 🚀 Featured Work
 
-```text
-💻 Software Applications
-        +
-⚙️ Backend APIs
-        +
-📊 Data Analytics
-        +
-🤖 Machine Learning
-        +
-🗃️ Database Systems
-        =
-🚀 Intelligent Data-Driven Software
-```
+### 📈 Mutual Fund Analysis
+### 📊 Nifty Market Analysis
+### 🤖 Machine Learning Projects
 
 ---
 
-# 🧠 Currently Exploring
+## 💼 Experience
 
-```text
-⚡ Advanced FastAPI
-🤖 Machine Learning
-🧠 Artificial Intelligence
-📊 Advanced Data Analytics
-🔐 Backend Security
-🗄️ PostgreSQL & Supabase
-📈 Predictive Modeling
-🏗️ Scalable Software Architecture
-```
+### 📊 Data Analyst Intern | Bluestoke Fintech
 
----
+📅 Apr 2026 – Jun 2026
 
-# 🎯 Career Focus
+✅ Mutual Fund Analytics
 
-I'm currently focused on building my career as a:
+✅ Nifty Market Analysis
 
-```text
-💻 Software Engineer
-        +
-⚙️ Backend Developer
-        +
-📊 Data Analyst
-        +
-🤖 Machine Learning Engineer
-```
+✅ Data Cleaning & Transformation
 
-My long-term goal is to build **scalable software systems and intelligent applications that solve real-world problems using software, data, and AI.**
+✅ Business Insight Generation
+
+✅ Reporting & Visualization
 
 ---
 
-# 📊 My Development Philosophy
+## 🌐 Portfolio
 
-```text
-             PROBLEM
-                │
-                ▼
-           💻 DESIGN
-                │
-                ▼
-           ⚙️ DEVELOP
-                │
-                ▼
-           🗄️ CONNECT DATA
-                │
-                ▼
-           📊 ANALYZE
-                │
-                ▼
-           🤖 APPLY AI
-                │
-                ▼
-           🚀 CREATE IMPACT
-```
-
-> **"Code → Analyze → Build → Innovate."**
+👉 https://madhurportfolio.lovable.app/
 
 ---
 
-# 💼 Experience
+## 💡 "Without data, you're just another person with an opinion."
 
-## 📊 Data Analyst Intern — Bluestoke Fintech
-
-**April 2026 – June 2026**
-
-```text
-📊 Mutual Fund Analytics
-📈 Nifty Market Analysis
-🧹 Data Cleaning & Transformation
-💡 Business Insight Generation
-📑 Reporting & Visualization
-```
-
----
-
-# 🌟 Featured Areas
-
-### 💻 Software Engineering
-
-Building web applications, backend services, REST APIs, and database-driven systems.
-
-### ⚙️ Backend Development
-
-Developing Python-based APIs using **FastAPI**, authentication, database integration, and backend architecture.
-
-### 📊 Data Analytics
-
-Transforming raw datasets into meaningful insights using Python and analytical tools.
-
-### 🤖 Machine Learning
-
-Building and experimenting with ML models for predictive and data-driven applications.
-
-### 🗃️ Database Development
-
-Working with **PostgreSQL, Supabase, and MySQL** for application data management.
-
----
-
-<p align="center">
-
-### 💻 Code • 📊 Analyze • 🤖 Learn • 🚀 Build
-
-### 🌱 Turning Ideas Into Real-World Software
-
-**Madhur Pratap Singh**
-
-</p>
+### 📊 Analyze • 🤖 Learn • 🚀 Build • 🌟 Grow
